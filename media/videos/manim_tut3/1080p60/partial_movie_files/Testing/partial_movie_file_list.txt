@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/anura/Documents/VSCode_Workspace/Learning_Manim/media/videos/manim_tut3/1080p60/partial_movie_files/Testing/1413466013_2516709850_223132457.mp4'
+file 'file:C:/Users/anura/Documents/VSCode_Workspace/Learning_Manim/media/videos/manim_tut3/1080p60/partial_movie_files/Testing/1672018281_3613595622_3988858775.mp4'
+file 'file:C:/Users/anura/Documents/VSCode_Workspace/Learning_Manim/media/videos/manim_tut3/1080p60/partial_movie_files/Testing/1672018281_2110918289_902171944.mp4'
+file 'file:C:/Users/anura/Documents/VSCode_Workspace/Learning_Manim/media/videos/manim_tut3/1080p60/partial_movie_files/Testing/1672018281_329969645_50665381.mp4'
+file 'file:C:/Users/anura/Documents/VSCode_Workspace/Learning_Manim/media/videos/manim_tut3/1080p60/partial_movie_files/Testing/1672018281_1127998298_2535111205.mp4'
+file 'file:C:/Users/anura/Documents/VSCode_Workspace/Learning_Manim/media/videos/manim_tut3/1080p60/partial_movie_files/Testing/1672018281_3707744634_2935535117.mp4'
+file 'file:C:/Users/anura/Documents/VSCode_Workspace/Learning_Manim/media/videos/manim_tut3/1080p60/partial_movie_files/Testing/1672018281_329969645_3979604506.mp4'
