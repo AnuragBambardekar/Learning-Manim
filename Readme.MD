@@ -29,6 +29,8 @@ Note, there are two versions of manim. This repository began as a personal proje
 **Tutorial 3:** - Printing my Name & some shapes <br>
 
 ## Outputs
+https://user-images.githubusercontent.com/104393371/219791225-0bdb364f-8d1c-4032-b27b-fdd3c0d1b707.mp4
+
 
 ## Resources Used
 - https://github.com/3b1b/manim - 3Blue1Brown GitHub Repository
