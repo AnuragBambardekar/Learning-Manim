@@ -23,6 +23,10 @@ Note, there are two versions of manim. This repository began as a personal proje
 - ```manim .\manim_tut1.py Test -pqm```
 - or can use the VSCode ```Manim Sideview``` Extension, and just Click the play button in VSCode for executing the code.
 
+## Programs
+**Tutorial 1:** - Creating a circle <br>
+**Tutorial 2:** - 
+
 ## Resources Used
 - https://github.com/3b1b/manim - 3Blue1Brown GitHub Repository
 - https://docs.manim.community/en/stable/installation/windows.html - Manim Community Version Installation Guide
