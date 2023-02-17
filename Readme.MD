@@ -31,6 +31,8 @@ Note, there are two versions of manim. This repository began as a personal proje
 ## Outputs
 My First Manim Video <br>
 
+https://user-images.githubusercontent.com/104393371/219792268-2f4ed787-7ef4-417f-a3d8-8d9a56dd13fa.mp4
+
 
 
 ## Resources/References Used
