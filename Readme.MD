@@ -33,7 +33,7 @@ My First Manim Video <br>
 
 
 
-## Resources Used
+## Resources/References Used
 - https://github.com/3b1b/manim - 3Blue1Brown GitHub Repository
 - https://docs.manim.community/en/stable/installation/windows.html - Manim Community Version Installation Guide
 - https://chocolatey.org/install#install-step2 - Chocolatey Installation Guide
