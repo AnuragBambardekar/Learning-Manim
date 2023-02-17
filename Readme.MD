@@ -21,7 +21,7 @@ Note, there are two versions of manim. This repository began as a personal proje
 
 ## Executing code
 - ```manim .\manim_tut1.py Test -pqm```
-- or We can use the sideview manim Extension, and just Click the play button in VSCode for executing the code.
+- or can use the VSCode ```Manim Sideview``` Extension, and just Click the play button in VSCode for executing the code.
 
 ## Resources Used
 - https://github.com/3b1b/manim - 3Blue1Brown GitHub Repository
