@@ -28,6 +28,8 @@ Note, there are two versions of manim. This repository began as a personal proje
 **Tutorial 2:** - Creating a Square <br>
 **Tutorial 3:** - Printing my Name & some shapes <br>
 
+## Outputs
+
 ## Resources Used
 - https://github.com/3b1b/manim - 3Blue1Brown GitHub Repository
 - https://docs.manim.community/en/stable/installation/windows.html - Manim Community Version Installation Guide
