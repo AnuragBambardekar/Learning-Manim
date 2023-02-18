@@ -30,12 +30,15 @@ Note, there are two versions of manim. This repository began as a personal proje
 **Tutorial 4:** - Some Common Errors in Manim <br>
 **Tutorial 5:** - Reading the Manim Library and Plotting Axes and Line Graph <br>
 **Tutorial 6:** - Getters & Updaters <br>
-
+**Tutorial 7:** - Harry Potter Deathly Hallows Symbol using Manim <br>
 
 ## Outputs
 My First Manim Video <br>
 
 https://user-images.githubusercontent.com/104393371/219792268-2f4ed787-7ef4-417f-a3d8-8d9a56dd13fa.mp4
+
+**Deathly Hallows Symbol from Harry Potter**
+
 
 
 
