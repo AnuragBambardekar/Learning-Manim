@@ -9,7 +9,7 @@ class Getters(Scene):
             lambda: Line(
                     start=rect.get_bottom(), end=circ.get_top(), buff=0.2
                 ).add_tip()
-        )  # buff to not make it touch circle
+        )  # buff to not make it touch circle/ padding
         # always_redraw so that it moves along with the rectangle
 
         self.play(Create(VGroup(rect, circ, arrow)))
