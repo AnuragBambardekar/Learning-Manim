@@ -4,6 +4,7 @@ class Library(Scene):
     def construct(self):
 
         ax = Axes() # Hover and Click (in VSCode) to see the library function Code
+        name = Text("A Graph.").to_edge(UL, buff=0.5)
 
         # plot_line_graph
         plane = NumberPlane(
@@ -23,5 +24,5 @@ class Library(Scene):
         self.play(Write(plane))
 
         self.play(Write(line_graph))
-
-        self.play(Write(ax))
+        self.play(Write(name))
+        # self.play(Write(ax))
