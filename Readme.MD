@@ -28,7 +28,7 @@ Note, there are two versions of manim. This repository began as a personal proje
 **Tutorial 2:** - Creating a Square <br>
 **Tutorial 3:** - Printing my Name & some shapes <br>
 **Tutorial 4:** - Some Common Errors in Manim <br>
-**Tutorial 5:** - Reading the Manim Library <br>
+**Tutorial 5:** - Reading the Manim Library and Plotting Axes and Line Graph <br>
 
 
 ## Outputs
