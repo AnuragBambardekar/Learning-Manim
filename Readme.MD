@@ -46,6 +46,9 @@ https://user-images.githubusercontent.com/104393371/219792268-2f4ed787-7ef4-417f
 
 https://user-images.githubusercontent.com/104393371/219892419-27639e21-cfcd-45f8-bf0c-0213681e08fd.mp4
 
+**OVO Logo**
+
+https://user-images.githubusercontent.com/104393371/219976850-cd35008a-d828-4733-9977-cdb2ddea1b0a.mp4
 
 
 ## Resources/References Used
