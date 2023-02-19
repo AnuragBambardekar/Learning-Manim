@@ -34,7 +34,7 @@ Note, there are two versions of manim. This repository began as a personal proje
 **Tutorial 8:** - Updaters, redraw function, MathTex [Moving Box] <br>
 **Tutorial 9:** - Value Trackers <br>
 **Tutorial 10:** - Graphing - NumberPlane and plotting a parabola and Riemann Rectangles <br>
-
+**Tutorial 11:** - Graphing with Updaters [Axes, Parabola and Secant Slope] <br>
 
 ## Outputs
 My First Manim Video <br>
