@@ -33,6 +33,7 @@ Note, there are two versions of manim. This repository began as a personal proje
 **Tutorial 7:** - Harry Potter Deathly Hallows Symbol using Manim <br>
 **Tutorial 8:** - Updaters, redraw function, MathTex [Moving Box] <br>
 **Tutorial 9:** - Value Trackers <br>
+**Tutorial 10:** - Graphing - NumberPlane and plotting a parabola and Riemann Rectangles <br>
 
 
 ## Outputs
