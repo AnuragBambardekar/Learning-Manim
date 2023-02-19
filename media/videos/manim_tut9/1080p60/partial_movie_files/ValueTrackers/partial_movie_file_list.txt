@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/anura/Documents/VSCode_Workspace/Learning_Manim/media/videos/manim_tut9/1080p60/partial_movie_files/ValueTrackers/1413466013_2448624583_223132457.mp4'
+file 'file:C:/Users/anura/Documents/VSCode_Workspace/Learning_Manim/media/videos/manim_tut9/1080p60/partial_movie_files/ValueTrackers/1672018281_329969645_134560912.mp4'
+file 'file:C:/Users/anura/Documents/VSCode_Workspace/Learning_Manim/media/videos/manim_tut9/1080p60/partial_movie_files/ValueTrackers/1672018281_2853450784_1461906744.mp4'

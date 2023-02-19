@@ -31,7 +31,7 @@ Note, there are two versions of manim. This repository began as a personal proje
 **Tutorial 5:** - Reading the Manim Library and Plotting Axes and Line Graph <br>
 **Tutorial 6:** - Getters & Updaters <br>
 **Tutorial 7:** - Harry Potter Deathly Hallows Symbol using Manim <br>
-**Tutorial 8:** - Updaters, redraw function, MathTex <br>
+**Tutorial 8:** - Updaters, redraw function, MathTex [Moving Box] <br>
 
 
 ## Outputs
