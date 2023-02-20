@@ -38,6 +38,12 @@ Note, there are two versions of manim. This repository began as a personal proje
 **Tutorial 12:** - Using SVGs with manim [OVO Logo (SVG)] <br>
 **Tutorial 13:** - axis_config for Axes() <br>
 
+**Manim Text Demo** - Different methods to animate Text Demo <br>
+
+
+**Also in the works is a RISC-V related implementation using Manim**
+**Will Upload that later**
+
 ## Outputs
 My First Manim Video <br>
 
