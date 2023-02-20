@@ -41,7 +41,7 @@ Note, there are two versions of manim. This repository began as a personal proje
 **Manim Text Demo** - Different methods to animate Text Demo <br>
 
 
-**Also in the works is a RISC-V related implementation using Manim**
+**Also in the works is a RISC-V related implementation using Manim**<br>
 **Will Upload that later**
 
 ## Outputs
